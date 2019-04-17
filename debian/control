@@ -1,0 +1,16 @@
+Source: moxa-nport-real-tty-utils
+Section: utils
+Priority: required
+Maintainer: Wes Huang <Wes.Huang@moxa.com>
+Uploaders: SZ Lin (林上智) <sz.lin@moxa.com>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: http://www.moxa.com/
+
+Package: moxa-nport-real-tty-utils
+Architecture: any
+Depends: ${misc:Depends}
+Description: Moxa Real TTY utility
+ The purpose of this driver is to map NPort serial port to host tty
+ port. Using this driver, you can use NPort serial port as local
+ tty port.

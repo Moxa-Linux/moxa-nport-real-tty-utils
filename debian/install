@@ -1,0 +1,11 @@
+mxaddsvr /usr/lib/npreal2/driver
+mxdelsvr /usr/lib/npreal2/driver
+mxcfmat /usr/lib/npreal2/driver
+mxloadsvr /usr/lib/npreal2/driver
+mxmknod /usr/lib/npreal2/driver
+mxrmnod /usr/lib/npreal2/driver
+killp /usr/lib/npreal2/driver
+mxsetsec /usr/lib/npreal2/driver
+npreal2d /usr/lib/npreal2/driver
+npreal2d_redund /usr/lib/npreal2/driver
+npreal2d.cf /usr/lib/npreal2/driver

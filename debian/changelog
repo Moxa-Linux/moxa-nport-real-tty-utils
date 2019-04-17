@@ -1,0 +1,9 @@
+moxa-nport-real-tty-utils (1.0.0+deb9) stretch; urgency=low
+
+  [ Wes Huang ]
+  *  Initial release.
+
+  [ SZ Lin (林上智) ]
+  * Fix up installation file
+
+ -- SZ Lin (林上智) <sz.lin@moxa.com>  Mon, 25 Dec 2017 21:09:21 +0800
